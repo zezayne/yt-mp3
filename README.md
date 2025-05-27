@@ -3,6 +3,5 @@ Used to download Youtube Music Videos into mp3 without needing to use sketchy we
 
 Installion guide: 
 1) https://www.python.org/downloads/
-2) Open Command Prompt (cmd)
-3) Copy the command : "py -m pip install -r requirements.txt" , if that doesn't work you might want to try : " python -m pip install -r requirements.txt" or "pip install -r requirements.txt"
+2) Copy the command : "py -m pip install -r requirements.txt" , if that doesn't work you might want to try : " python -m pip install -r requirements.txt" or "pip install -r requirements.txt"
 
